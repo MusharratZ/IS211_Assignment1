@@ -30,6 +30,8 @@ def test_list_divide():
     if list_divide([1, 2, 3, 4, 5], 1) != 5:
         raise ListDivideException
 
+def test_List_Divide():
+    pass
 
 if __name__ == "__main__":
     try:
